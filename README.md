@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código fuente del proyecto final sobre la aplicación de **Machine Learning** (Perceptrón Multicapa) para resolver el problema del matrimonio estable de **Gale-Shapley** (Teoría de Juegos) con preferencias incompletas.
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/github/juancarlosdp03/Matching-networks/blob/main/MatchingNetworks.ipynb))]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juancarlosdp03/Matching-networks/blob/main/MatchingNetworks.ipynb)
 
 En el problema clásico de asignación, se asume que todos los participantes conocen sus preferencias de forma estricta y ordenada. En este trabajo, utilizamos datos reales del *Speed Dating Experiment* de la Universidad de Columbia para inferir estas preferencias mediante Inteligencia Artificial.
 
