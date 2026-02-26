@@ -1,10 +1,9 @@
-# Deep Matching: Redes Neuronales y Teoría de Emparejamiento 🧠💘
+# Matching Networks
 
 Este repositorio contiene el código fuente del proyecto final sobre la aplicación de **Machine Learning** (Perceptrón Multicapa) para resolver el problema del matrimonio estable de **Gale-Shapley** (Teoría de Juegos) con preferencias incompletas.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](ENLACE_A_TU_NOTEBOOK_EN_COLAB)
 
-## 📌 Descripción del Proyecto
 En el problema clásico de asignación, se asume que todos los participantes conocen sus preferencias de forma estricta y ordenada. En este trabajo, utilizamos datos reales del *Speed Dating Experiment* de la Universidad de Columbia para inferir estas preferencias mediante Inteligencia Artificial.
 
 El pipeline consta de:
